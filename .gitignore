@@ -1,0 +1,82 @@
+# Dart & Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.generated_plugin_registrant.dart
+
+# Build outputs
+build/
+!*/.gitkeep
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace
+ios/Flutter/App.framework
+ios/Flutter/engine
+ios/Flutter/Flutter.podspec.json
+ios/Flutter/App.framework
+ios/Flutter/Flutter.xcframework
+
+# Android
+.android/
+app/app.iml
+local.properties
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+.idea/*.xml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/dictionaries
+.idea/libraries
+.idea/**/shelf/
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.code-workspace
+
+# macOS
+macos/Flutter/ephemeral/
+macos/.symlinks/
+macos/Pods/
+
+# Web
+web/.dart_tool/
+web/.packages
+
+# Windows
+windows/Flutter/ephemeral/
+
+# Linux
+linux/Flutter/ephemeral/
+
+# Firebase
+firebase_app_id_file.json
+
+# Miscellaneous
+*.log
+*.lock
+*.bak
+*.tmp
+*.swp
+*.DS_Store
+*.apk
+*.aab
+
+# Coverage
+coverage/
+
+# Packages
+.packages
+pubspec.lock
